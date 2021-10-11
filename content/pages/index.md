@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Inspire. Create. Build.
+    title: Sri Sathya Sai Brindavan Museum
     subtitle: Conference for Creative People
     content: |
       ****
