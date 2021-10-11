@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Sri Sathya Sai Brindavan Museum
-    subtitle: Conference for Creative People
+    subtitle: A Scentillating experience for all devotees
     content: |
       ****
 
